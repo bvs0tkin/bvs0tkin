@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anton Basov [@bvs0tkin]
-- 👀 I’m interested in Web 2.0 && Web 3.0 Developing
-- 🌱 I’m currently learning Python
+- 👀 I’m interested for Web 2.0 && Web 3.0 Developing
+- 🌱 I’m currently learning Python, ReactJS
 - 📫 How to reach me
 
 tg: *@bvs0tkin* | 
